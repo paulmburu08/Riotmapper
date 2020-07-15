@@ -1,4 +1,4 @@
-# RIOTMAPPER
+# Riotmapper
 
 
 # Authors
@@ -34,7 +34,6 @@
 * CSS
 * Postgres
 * SQLAlchemy
-* Javascript
 
 # Support and contact details
 Persons are encouraged to copy,modify,merge and make changes to this software in a case of new ideas or issues.You can reach me at paulmburu08@gmail.com for more communication.
@@ -43,3 +42,4 @@ Persons are encouraged to copy,modify,merge and make changes to this software in
 MIT License
 
 Copyright (c) 2020 Paul Mburu Njuguna
+
