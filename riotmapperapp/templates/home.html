@@ -1,0 +1,10 @@
+{%extends 'base.html'%}
+{% load static %}
+{% block styles %}
+{{ block.super}}
+<link rel="stylesheet" href="{% static 'css/home.css' %}">
+{% endblock %}
+
+{% block content %}
+<h1>Tuko</h1>
+{% endblock %}
