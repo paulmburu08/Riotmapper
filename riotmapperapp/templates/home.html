@@ -6,5 +6,15 @@
 {% endblock %}
 
 {% block content %}
-<h1>Tuko</h1>
+<div class="container">
+    <h2 id="text-center">Enter Location: </h2>
+    <form id="location-form">
+      <input type="text" id="location-input" class="form-control form-control-lg">
+      <br>
+      <button type="submit" class="btn btn-primary btn-block">Submit</button>
+    </form>
+    <div class="card-block" id="formatted-address"></div>
+    <div class="card-block" id="address-components"></div>
+    <div class="card-block" id="geometry"></div>
+  </div>
 {% endblock %}
